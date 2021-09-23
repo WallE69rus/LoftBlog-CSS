@@ -35,9 +35,14 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
-h1,p{
-	margin-left: 60px;
+.container{
+	width: 1140px;
+	margin: 0 auto;
 }
-p{
-	margin-left: 60px;
+header{
+	text-align: center;
+}
+.main-conteiner{
+	width: 850px;
+	margin: 0 auto;
 }
